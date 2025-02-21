@@ -81,3 +81,19 @@ font-family: "nosu",sans-serif;
 	}
 
 }
+
+
+      .hometitle{
+        width:600px;
+        height: 600px;
+        position: relative;
+      }
+      .homemo{
+        position: absolute;
+        top:0;
+        left:0;
+        font-size:30px;
+        color: red;
+        padding:0;
+        margin:0;
+      }
