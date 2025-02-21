@@ -3,6 +3,10 @@
 
 a {text-decoration: none;}
 
+sanka {
+
+}
+
 /* This class is added on scroll */
 .fixed {
 	position: fixed;
@@ -23,7 +27,7 @@ nav {
 	position: absolute;
 	top: 0;
 	width: 100%;
-	height: 100px;
+	height: 70px;
 	background: #fff;
 }
 
