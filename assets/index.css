@@ -103,7 +103,7 @@ font-family: "nosu",sans-serif;
         padding:0;
         margin:0;
       }
-.hobemo::after {
+.homemo::after {
   background: linear-gradient(to right, #362ae0 0%,#3b79cc 50%,#42d3ed 100%);
   bottom: 0;
   content: '';
@@ -116,7 +116,7 @@ font-family: "nosu",sans-serif;
 .homemo.is-animated {
   color: #362ae0;
 }
-.mask-bg.is-animated::after {
+.home.is-animated::after {
   animation: mask-bg 1.2s cubic-bezier(0.8, 0, 0.170, 1);
 }
  
