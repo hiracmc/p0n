@@ -58,8 +58,15 @@ section {
 	background: #e1793d;
 }
 
-hometitle{
+@font-face {
+    font-family: "nosu"; /*任意のフォントファミリー名でOK*/
+    src: url("fonts/nosutaru.ttf") format("truetype"); /*fontがあるパスを書いて、formatを指定*/
+    font-display: swap; /*ダウンロード状況に応じてフォントの表示を変える
+(「swap」はWebフォントが読み込まれるまでフォールバックフォントで表示し、読み込まれた時点で置き換えます。)*/
+  }
 
+hometitle{
+font-family: "nosu",sans-serif;
 	
 }
 
