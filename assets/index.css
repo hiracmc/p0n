@@ -65,7 +65,7 @@ section {
 (「swap」はWebフォントが読み込まれるまでフォールバックフォントで表示し、読み込まれた時点で置き換えます。)*/
   }
 
-hometitle{
+.homemo {
 font-family: "nosu",sans-serif;
 	
 }
