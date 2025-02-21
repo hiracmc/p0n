@@ -82,6 +82,11 @@ font-family: "nosu",sans-serif;
 
 }
 
+.hometitle{
+    width:"100%";
+    height:auto;
+    position: relative;
+}
 
       .hometitle img{
         width:"100%";
