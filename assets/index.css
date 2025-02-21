@@ -4,7 +4,9 @@
 a {text-decoration: none;}
 
 sanka {
-
+color: #fff
+	background: linear-gradient(#52A535 0% 93%, #1D4D13 93% 100%)
+	
 }
 
 /* This class is added on scroll */
