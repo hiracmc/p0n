@@ -84,8 +84,7 @@ font-family: "nosu",sans-serif;
 
 
       .hometitle{
-        width:600px;
-        height: 600px;
+        width:"100%";
         position: relative;
       }
       .homemo{
