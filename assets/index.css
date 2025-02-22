@@ -3,7 +3,7 @@
 
 
 
-.play {
+a.play {
   color: #b1921b;
   border-right: 4px solid #cea82c;
   border-bottom: 10px solid #987c1e;
@@ -15,7 +15,7 @@
   text-shadow: -1px -1px 1px #ffffd9;
 }
 
-.play:hover {
+a.play:hover {
   margin-top: 3px;
 
   color: #b1921b;
