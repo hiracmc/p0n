@@ -4,15 +4,15 @@
 
 
 a.play {
-  color: #52A535;
+  color: #ffffff;
   border-top: 4px solid #75B75D;
   border-right: 4px solid #63AE49;
   border-bottom: 4px solid #63AE49;
   border-left: 4px solid #75B75D;
   border-radius: 0;
-  background: -webkit-gradient(linear, from(#ffd75b), color-stop(30%, #fff5a0), color-stop(40%, #fffabe), color-stop(50%, #ffffdb), color-stop(70%, #fff5a0), to(#fdd456));
-  background: -webkit-linear-gradient(right, #ffd75b 0%, #fff5a0 30%, #fffabe 40%, #ffffdb 50%, #fff5a0 70%, #fdd456 100%);
-  background: linear-gradient(-90deg, #ffd75b 0%, #fff5a0 30%, #fffabe 40%, #ffffdb 50%, #fff5a0 70%, #fdd456 100%);
+  background: -webkit-gradient(linear, from(#52A535), to(#52A535));
+  background: -webkit-linear-gradient(right, #52A535 );
+  background: linear-gradient(-90deg, #52A535);
   text-shadow: 1px 1px 0px #35701F;
 }
 
