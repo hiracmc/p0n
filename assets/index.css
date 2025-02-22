@@ -5,7 +5,10 @@
 
 a.play {
   color: #52A535;
-  border-bottom: 10px solid #1D4D13;
+  border-top: 4px solid #75B75D;
+  border-right: 4px solid #63AE49;
+  border-bottom: 4px solid #63AE49;
+  border-left: 4px solid #75B75D;
   border-radius: 0;
   background: -webkit-gradient(linear, from(#ffd75b), color-stop(30%, #fff5a0), color-stop(40%, #fffabe), color-stop(50%, #ffffdb), color-stop(70%, #fff5a0), to(#fdd456));
   background: -webkit-linear-gradient(right, #ffd75b 0%, #fff5a0 30%, #fffabe 40%, #ffffdb 50%, #fff5a0 70%, #fdd456 100%);
